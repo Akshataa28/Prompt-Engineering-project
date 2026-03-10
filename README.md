@@ -1,2 +1,21 @@
-# Prompt-Engineering-project
-Designed and tested multiple prompts to analyze how prompt structure affects AI-generated responses. Automated response collection using Python and evaluated outputs based on clarity and accuracy using Excel. This project demonstrates how effective prompt design improves the quality and structure of AI responses.
+# AI Prompt Engineering Experiment
+
+## Project Overview
+This project explores how different prompts affect AI-generated responses.
+
+## Tools Used
+- Python
+- Google Colab
+- Excel
+
+## Methodology
+Multiple prompts were created to analyze how prompt structure affects AI responses. The responses were collected and evaluated based on clarity and accuracy.
+
+## Results
+Structured prompts such as bullet-point summaries produced clearer outputs compared to simple prompts.
+
+## Files
+prompts.txt – list of prompts used
+prompt_test.ipynb – Python code for testing prompts
+responses.xlsx – collected responses and evaluation
+analysis_report.pdf – detailed analysis report
