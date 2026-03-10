@@ -1,0 +1,17 @@
+Prompt 1:
+Summarize the following text.
+
+Prompt 2:
+Summarize the following text in 3 bullet points.
+
+Prompt 3:
+Explain the following text in simple language.
+
+Prompt 4:
+Extract key insights from the following text.
+
+Prompt 5:
+Identify the main concepts from the following text.
+
+Prompt 6:
+Rewrite the text in a concise way.
