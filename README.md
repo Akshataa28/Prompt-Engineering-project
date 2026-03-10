@@ -15,7 +15,7 @@ Multiple prompts were created to analyze how prompt structure affects AI respons
 Structured prompts such as bullet-point summaries produced clearer outputs compared to simple prompts.
 
 ## Files
-prompts.txt – list of prompts used
+prompts.txt – List of prompts used
 prompt_test.ipynb – Python code for testing prompts
-responses.xlsx – collected responses and evaluation
-analysis_report.pdf – detailed analysis report
+responses.xlsx – Collected responses and evaluation
+analysis_report.pdf – Detailed analysis report
